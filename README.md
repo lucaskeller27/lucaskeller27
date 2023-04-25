@@ -6,7 +6,7 @@
 <div align="center">
 <div>
  <a href="https://github.com/lucaskeller27">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskeller27&layout=compact&langs_count=7&theme=tokyonight" padding-right=10/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskeller27&layout=compact&langs_count=7&theme=tokyonight&exclude=HTML,CSS"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaskeller27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&exclude=HTML,CSS"/>
 <!-- <a href="https://github.com/lucaskeller27">
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaskeller27&theme=tokyonight"/>
