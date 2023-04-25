@@ -3,12 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+welcome+to+my+GitHub+page!;I'm+a+Software+Development+student;from+Santa+Catarina,+Brazil.;I'm+currently+learning+Python+and+JavaScript.;I'm+interested+in+learning+React;and+other+Front-End+skills.+:%29)](https://git.io/typing-svg)
   
 
- <div align="center">
-  <div>
+<div align="center">
+<div>
+ <!-- <a href="https://github.com/lucaskeller27">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskeller27&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaskeller27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
 <a href="https://github.com/lucaskeller27">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskeller27&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaskeller27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaskeller27&theme=tokyonight"/>
+ <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaskeller27&theme=tokyonight"/>
+</div> 
 
  <br>
 
