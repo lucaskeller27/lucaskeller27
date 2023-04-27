@@ -11,9 +11,6 @@
  <!-- <a href="https://github.com/lucaskeller27">
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaskeller27&theme=tokyonight"/>
  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaskeller27&theme=tokyonight&exclude=HTML,CSS"/> -->
- <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![lucaskeller27's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucaskeller27&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
 </div> 
 
  <br>
