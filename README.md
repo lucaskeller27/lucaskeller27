@@ -19,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
   title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <h2>I'm interested in learning next:</h2>
+  <h2>I'm interested in learning:</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
   title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -37,7 +37,6 @@
   title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" 
   title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <h2>And later on, I intend to learn:</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
   title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" 
