@@ -4,7 +4,7 @@
   
 
 <div align="center">
-<div flex-direction:'row'>
+<div flexDirection:'row'>
   <a href="#">
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucaskeller27&show_icons=true&theme=tokyonight&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true"/>
   </a>
