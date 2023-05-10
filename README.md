@@ -55,3 +55,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" 
   title="Git" alt="Git" width="40" height="40"/>&nbsp;
    </div>
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
