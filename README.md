@@ -32,21 +32,19 @@
   title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
   title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-
-  <br>
-  
+  <!-- <br> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" 
   title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" 
   title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" 
   title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  
+  <!--<h2>Interested in learning:</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
   title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" 
   title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  
-  <h2>Interested in learning:</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" 
   title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" 
@@ -54,7 +52,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" 
   title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" 
-  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp; -->
    </div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e32a8&height=120&section=footer"/>
