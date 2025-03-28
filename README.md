@@ -6,9 +6,9 @@
  
 <div>
  <a href="https://github.com/lucaskeller27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaskeller27&show_icons=true&theme=tokyonight&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true"/>
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaskeller27&show_icons=true&theme=tokyonight&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true"/> -->
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=20&short_numbers=true" alt="GitHub Streak"/> 
- <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=20&short_numbers=true)](https://git.io/streak-stats) -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=20&short_numbers=true)](https://git.io/streak-stats)
  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=20&short_numbers=true" alt="GitHub Streak" /></a> -->
  <!-- !!! MAIN !!! <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskeller27&layout=compact&langs_count=6&theme=tokyonight&bg_color=0d1117&border_radius=15&border_color=0d1117"/> -->
  <!-- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaskeller27&theme=tokyonight"/>
