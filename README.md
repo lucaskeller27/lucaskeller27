@@ -31,13 +31,13 @@
  title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
- 
- <!-- <br> -->
- 
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
  title="Git" alt="Git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" 
  title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+ 
+ <!-- <br> -->
+ 
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" 
  title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
