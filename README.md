@@ -9,28 +9,39 @@
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaskeller27&show_icons=true&theme=tokyonight&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true"/> -->
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=20&short_numbers=true" alt="GitHub Streak"/> 
  <!--  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=20&short_numbers=true" alt="GitHub Streak" /></a> -->
- <!-- !!! MAIN !!! <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskeller27&layout=compact&langs_count=6&theme=tokyonight&bg_color=0d1117&border_radius=15&border_color=0d1117"/> -->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskeller27&layout=compact&langs_count=6&theme=tokyonight&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
  <!--  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaskeller27&theme=tokyonight"/> -->
- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaskeller27&theme=tokyonight"/>
+ <!--  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaskeller27&theme=tokyonight"/> -->
 </div> 
 
 <br>
 
 <h2>Skilled in:</h2>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
- title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" 
+ title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" 
+ title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" 
  title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" 
  title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
  title="React" alt="React" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" 
- title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" 
  title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
+ title="Git" alt="Git" width="40" height="40"/>&nbsp;
  <!-- <br> -->
+ 
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" 
+ title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" 
+ title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
+ title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" 
  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" 
@@ -39,6 +50,14 @@
  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
  
  <!--<h2>Interested in learning:</h2>
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" 
+ title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" 
+ title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" 
+ title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+ 
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
  title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" 
