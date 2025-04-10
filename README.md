@@ -30,7 +30,7 @@
 <h2>Skilled in:</h2>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
  title="Python" alt="Python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" 
  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" 
  title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
