@@ -18,7 +18,7 @@
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
  
  <a href="https://git.io/streak-stats"><img height="180em" src="https://github-readme-streak-stats-one-virid.vercel.app?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=20&short_numbers=true" alt="GitHub Streak" /></a>
- <img height="180em" src="https://github-readme-lang-stats.vercel.app/api/top-langs/?username=lucaskeller27&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=15" alt="GitHub Top Languages"/>
+ <img height="180em" src="https://github-readme-lang-stats.vercel.app/api/top-langs/?username=lucaskeller27&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=16" alt="GitHub Top Languages"/>
 
 </div>
 
@@ -49,8 +49,8 @@
  
  <!-- <br> -->
  
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" 
- title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" 
+ title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" 
  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
@@ -60,9 +60,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" 
  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
  
- <!--<h2>Interested in learning:</h2>
- 
- <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" 
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" 
  title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" 
  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
