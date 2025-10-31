@@ -18,7 +18,7 @@
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
  
  <img height="180em" src="https://github-readme-streak-stats-one-virid.vercel.app?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=20&short_numbers=true" alt="GitHub Streak" /></a>
- <img height="180em" src="https://github-readme-lang-stats.vercel.app/api/top-langs/?username=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=16&layout=compact&langs_count=6" alt="GitHub Top Languages"/>
+ <img height="180em" src="https://github-readme-lang-stats.vercel.app/api/top-langs/?username=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=15&layout=compact&langs_count=6" alt="GitHub Top Languages"/>
 
 </div>
 
