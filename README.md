@@ -26,7 +26,7 @@
 
 <br>
 
-<h2>Skilled in:</h2>
+<!-- <h2>Skilled in:</h2> -->
 
 <br>
 
