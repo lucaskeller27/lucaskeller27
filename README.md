@@ -67,7 +67,7 @@
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" 
  title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" 
- title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+ title="Figma" alt="Figma" width="40" height="40"/>&nbsp; -->
  
 </div>
 
