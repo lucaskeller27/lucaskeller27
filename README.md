@@ -16,8 +16,11 @@
   
   <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
    
-   <img height="180em" src="https://github-readme-streak-stats-one-virid.vercel.app?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=21&short_numbers=true" alt="GitHub Streak" /></a>
-   <img height="180em" src="https://github-readme-lang-stats.vercel.app/api/top-langs/?username=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=20&layout=compact&langs_count=6" alt="GitHub Top Languages"/>
+   <!-- <img height="180em" src="https://github-readme-streak-stats-one-virid.vercel.app?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=21&short_numbers=true" alt="GitHub Streak" /></a>
+   <img height="180em" src="https://github-readme-lang-stats.vercel.app/api/top-langs/?username=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=20&layout=compact&langs_count=6" alt="GitHub Top Languages"/> -->
+   
+   <img height="180em" src="https://github-readme-streak-stats-one-virid.vercel.app?user=kellerdasilva&theme=tokyonight&hide_border=true&border_radius=21&short_numbers=true" alt="GitHub Streak" /></a>
+   <img height="180em" src="https://github-readme-lang-stats.vercel.app/api/top-langs/?username=kellerdasilva&theme=tokyonight&hide_border=true&border_radius=20&layout=compact&langs_count=6" alt="GitHub Top Languages"/>
    
   </div>
  </div> 
@@ -32,6 +35,8 @@
  title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" 
  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" 
+ title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" 
  title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
@@ -46,8 +51,6 @@
  title="Git" alt="Git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" 
- title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
  
  <!-- <br> -->
  
@@ -61,15 +64,10 @@
  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; -->
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" 
  title="Postman" alt="Postman" width="40" height="40"/>&nbsp; -->
- 
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" 
  title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" 
  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" 
- title="Django" alt="Django" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" 
- title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; -->
  
 </div>
 
