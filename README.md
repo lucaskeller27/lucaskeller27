@@ -1,23 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e32a8&height=120&section=header"/>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Greetings,+welcome+to+my+profile!;My+name+is+Lucas;I'm+a+Software+Developer;and+College+student;from+Santa+Catarina,+Brazil;Thanks+for+visiting+ツ)](https://git.io/typing-svg) -->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Greetings+...;)](https://git.io/typing-svg) -->
 
 <div align="center">
  <div>
-  <!-- <a href="https://github.com/lucaskeller27"> -->
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaskeller27&show_icons=true&theme=tokyonight&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true"/> -->
-  <!--  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaskeller27&theme=tokyonight"/> -->
-  <!--  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaskeller27&theme=tokyonight"/> -->
-  
-  <!-- <a href="https://git.io/streak-stats"><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=15&short_numbers=true" alt="GitHub Streak" /></a> -->
-  
-  <!-- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskeller27&layout=compact&langs_count=6&theme=tokyonight&bg_color=0d1117&border_radius=15&border_color=0d1117"/> -->
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskeller27&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=15" alt="GitHub Top Languages"/> -->
   
   <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-   
-   <!-- <img height="180em" src="https://github-readme-streak-stats-one-virid.vercel.app?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=21&short_numbers=true" alt="GitHub Streak" /></a>
-   <img height="180em" src="https://github-readme-lang-stats.vercel.app/api/top-langs/?username=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=20&layout=compact&langs_count=6" alt="GitHub Top Languages"/> -->
    
    <img height="180em" src="https://github-readme-streak-stats-one-virid.vercel.app?user=kellerdasilva&theme=tokyonight&hide_border=true&border_radius=21&short_numbers=true" alt="GitHub Streak" /></a>
    <img height="180em" src="https://github-readme-lang-stats.vercel.app/api/top-langs/?username=kellerdasilva&theme=tokyonight&hide_border=true&border_radius=20&layout=compact&langs_count=6" alt="GitHub Top Languages"/>
@@ -27,7 +15,7 @@
  
  <br>
  
- <!-- <h2>Skilled in:</h2> -->
+ <!-- <h2>Minhas stacks | My stacks</h2> -->
  
  <br>
  
@@ -39,35 +27,42 @@
  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" 
  title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
- title="React" alt="React" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" 
- title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" 
  title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
- title="Git" alt="Git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
+ title="Git" alt="Git" width="40" height="40"/>&nbsp;
  
  <!-- <br> -->
  
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" 
- title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; -->
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" 
- title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" 
- title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; -->
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" 
  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; -->
+ 
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
+ title="React" alt="React" width="40" height="40"/>&nbsp; -->
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" 
+ title="Vite" alt="Vite" width="40" height="40"/>&nbsp; -->
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" 
+ title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; -->
+ 
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" 
  title="Postman" alt="Postman" width="40" height="40"/>&nbsp; -->
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" 
- title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" 
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" 
  title="Figma" alt="Figma" width="40" height="40"/>&nbsp; -->
+
+ <!-- <br> -->
+ 
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaskeller27&show_icons=true&theme=tokyonight&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true"/> -->
+ <!--  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaskeller27&theme=tokyonight"/> -->
+ <!--  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaskeller27&theme=tokyonight"/> -->
+ <!-- <a href="https://git.io/streak-stats"><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=15&short_numbers=true" alt="GitHub Streak" /></a> -->
+ <!-- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskeller27&layout=compact&langs_count=6&theme=tokyonight&bg_color=0d1117&border_radius=15&border_color=0d1117"/> -->
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskeller27&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=15" alt="GitHub Top Languages"/> -->
+ <!-- <img height="180em" src="https://github-readme-streak-stats-one-virid.vercel.app?user=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=21&short_numbers=true" alt="GitHub Streak" /></a>
+<img height="180em" src="https://github-readme-lang-stats.vercel.app/api/top-langs/?username=lucaskeller27&theme=tokyonight&hide_border=true&border_radius=20&layout=compact&langs_count=6"    alt="GitHub Top Languages"/> -->
  
 </div>
 
