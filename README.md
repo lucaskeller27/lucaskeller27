@@ -23,36 +23,22 @@
  title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" 
  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+ 
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" 
  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+ 
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" 
  title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" 
  title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+ 
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
  title="Git" alt="Git" width="40" height="40"/>&nbsp;
  
- <!-- <br> -->
- 
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" 
- title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; -->
- 
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
- title="React" alt="React" width="40" height="40"/>&nbsp; -->
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" 
- title="Vite" alt="Vite" width="40" height="40"/>&nbsp; -->
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" 
- title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; -->
- 
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" 
- title="Postman" alt="Postman" width="40" height="40"/>&nbsp; -->
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" 
- title="Figma" alt="Figma" width="40" height="40"/>&nbsp; -->
-
  <!-- <br> -->
  
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaskeller27&show_icons=true&theme=tokyonight&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true"/> -->
