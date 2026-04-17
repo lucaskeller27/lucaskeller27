@@ -23,17 +23,14 @@
  title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" 
  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
- 
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" 
  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
- 
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" 
  title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" 
  title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
- 
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
